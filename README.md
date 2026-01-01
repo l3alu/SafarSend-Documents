@@ -1,2 +1,2 @@
-# SafarSend-Documents
-Legal documents for SafarSend app
+# Safar Send Legal Documents
+Legal documents for Safar Send app
